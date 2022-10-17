@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="mon_dossier">
+    <file>logo-removebg-preview.png</file>
+    <file>logo2-removebg-preview.png</file>
+    <file>logo1-removebg-preview.png</file>
+  </qresource>
+</RCC>
